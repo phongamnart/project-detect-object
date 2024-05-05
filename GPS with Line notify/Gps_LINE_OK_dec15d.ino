@@ -41,7 +41,7 @@ void setup() {
 
 void loop() {
   gps_sen();
-  delay(1000); // หน่วงเวลา 1 วินาที
+  delay(1000);
 }
 
 void gps_sen(){
